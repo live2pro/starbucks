@@ -1,0 +1,16 @@
+20.05.02
+Exploratory Issues
+http://localhost:8888/notebooks/starbucks/00_Starbucks_Capstone_notebook_Cleaning.ipynb
+
+จำนวน record ,features
+describe to show simple stats
+correlation between features
+find null value
+countplot single feature
+scratter plot two features (use sublot show all dimensions of features)
+convert categories features to dummy features
+
+My idea:
+ข้อมูล ลค. : เพศ  รายได้ 
+ข้อมูล offer แบบต่างๆ 
+ข้อมูล transaction ที่ลค. action หลังได้รับ offer
